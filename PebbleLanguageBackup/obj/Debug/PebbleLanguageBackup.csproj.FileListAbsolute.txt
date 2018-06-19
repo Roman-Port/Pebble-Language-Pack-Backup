@@ -1,0 +1,7 @@
+c:\users\roman\source\repos\PebbleLanguageBackup\PebbleLanguageBackup\obj\Debug\PebbleLanguageBackup.csprojAssemblyReference.cache
+c:\users\roman\source\repos\PebbleLanguageBackup\PebbleLanguageBackup\obj\Debug\PebbleLanguageBackup.csproj.CoreCompileInputs.cache
+c:\users\roman\source\repos\PebbleLanguageBackup\PebbleLanguageBackup\bin\Debug\PebbleLanguageBackup.exe.config
+c:\users\roman\source\repos\PebbleLanguageBackup\PebbleLanguageBackup\bin\Debug\PebbleLanguageBackup.exe
+c:\users\roman\source\repos\PebbleLanguageBackup\PebbleLanguageBackup\bin\Debug\PebbleLanguageBackup.pdb
+c:\users\roman\source\repos\PebbleLanguageBackup\PebbleLanguageBackup\obj\Debug\PebbleLanguageBackup.exe
+c:\users\roman\source\repos\PebbleLanguageBackup\PebbleLanguageBackup\obj\Debug\PebbleLanguageBackup.pdb
